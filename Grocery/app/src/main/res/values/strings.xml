@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Grocery</string>
+    <string name="address"> ADDRESS: </string>
+    <string name="street"> Carrot Street 15 </string>
+    <string name="contact"> CONTACT: </string>
+    <string name="phone"> +01 01010101 </string>
+    <string name="open"> OPEN:  </string>
+    <string name="hours"> Daily from 1 AM to 3 PM </string>
+</resources>
